@@ -103,16 +103,6 @@ hr {
     background: rgba(255,255,255,0.9);
 }
 
-
-.box-smaller {
-    margin-bottom: 20px;
-    padding: 10px 15px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
-    width: 45%;
-}
-
-
 .intro-text {
     text-transform: uppercase;
     font-size: 1.5em;
